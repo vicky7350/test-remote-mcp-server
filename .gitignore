@@ -5,9 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
-ref.py
+ref.py/
 
 # Virtual environments
 .venv
 
-*src\
+*src/
+
+expenses.db
+
